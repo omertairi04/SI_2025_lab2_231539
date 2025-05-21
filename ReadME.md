@@ -18,5 +18,5 @@ Total = 6 decisions → Cyclomatic Complexity = 4 + 1 = 5
 
 5) So we need 4 test cases to fully test all combinations.
 
-
+![Control Flow Graph](SI_LAB2.drawio.png)
 
