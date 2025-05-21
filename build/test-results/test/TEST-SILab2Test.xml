@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-05-20T10:06:57" hostname="omer-tari" time="0.038">
+  <properties/>
+  <testcase name="testQuantityGreaterThan10()" classname="SILab2Test" time="0.019"/>
+  <testcase name="testDiscountGreaterThan0()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testPriceGreaterThan300()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testInvalidCardNumberLength()" classname="SILab2Test" time="0.002"/>
+  <testcase name="testItemNameNull()" classname="SILab2Test" time="0.002"/>
+  <testcase name="testAllItemsNull()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testItemNameEmpty()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testInvalidCardNumberCharacters()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testMultipleCondition_FFF()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testMultipleCondition_FFT()" classname="SILab2Test" time="0.0"/>
+  <testcase name="testMultipleCondition_FTF()" classname="SILab2Test" time="0.0"/>
+  <testcase name="testMultipleCondition_TFF()" classname="SILab2Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
